@@ -9,11 +9,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [Code Review](https://youtu.be/HPM57O43frI) for the first enhancement.
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+This code review goes over my first artifact which is a translation of a project from java to python.
 
-### Jekyll Themes
+### Enhancement One
+https://github.com/JCostanzo2/Enhancement-One
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JCostanzo2/JCostanzo2.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+  The first artifact I chose to enhance for my ePortfolio is the project I created for the software testing, automation, and quality assurance course I took earlier in the computer science program. I chose this project, because I believe it demonstrates a good basis on my knowledge of basic coding practices while also including more intricate pieces such as software testing. The project was initially created in May of 2021 and consists of two classes that are made to hold and store data that would be used as contacts. The data held within the classes feature attributes such as phone numbers, names, and addresses. The first class holds those basic attributes while the second class is used to create a list of those contacts acting like an address book.
+  As I said earlier, I chose this project to display my basic knowledge of programming in object-oriented languages. I believe I was successful in further proving this by transferring the code from Java to Python. I was also able to increase the efficiency of the program by shortening the number of tests required. By being able to convert code from Java to Python, I’m able to prove that I can easily read and write code in multiple coding languages and use problem solving techniques to overcome any issues that pop up from converting different libraries. When working on the enhancement of this project, I didn’t fully realize how different Python and Java were syntax wise. This led to me having to look up multiple libraries to learn which Python methods are most similar to the Java commands I used previously.
+
 
 ### Support or Contact
 
