@@ -20,6 +20,7 @@ https://github.com/JCostanzo2/Enhancement-One
 
 
 ### Enhancement Two
+https://github.com/JCostanzo2/Enahncement-two
 
   The second artifact I chose to enhance for my ePortfolio is the project I created for the advanced programming concepts course I took earlier in the computer science program. I chose this project, because I believe it shows that I have a decent understanding of the use of databases in programs and how to make their use simpler by creating simple programs that search through the databases faster than typing on a command line. The project was initially created in August of 2021 and consists of a class that creates, reads, updates, and deletes data within an animal shelter database. The project also holds a testing file that tests the methods in the animal shelter class. Finally, the project has an app file that creates a user interface that utilizes the methods from the animal shelter class.
 
