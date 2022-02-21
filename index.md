@@ -12,7 +12,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 This code review goes over my first artifact which is a translation of a project from java to python.
 
 ### Enhancement One
-https://github.com/JCostanzo2/Enhancement-One
+[Link to first enhancement.](https://github.com/JCostanzo2/Enhancement-One)
 
   The first artifact I chose to enhance for my ePortfolio is the project I created for the software testing, automation, and quality assurance course I took earlier in the computer science program. I chose this project, because I believe it demonstrates a good basis on my knowledge of basic coding practices while also including more intricate pieces such as software testing. The project was initially created in May of 2021 and consists of two classes that are made to hold and store data that would be used as contacts. The data held within the classes feature attributes such as phone numbers, names, and addresses. The first class holds those basic attributes while the second class is used to create a list of those contacts acting like an address book.
   
@@ -20,7 +20,7 @@ https://github.com/JCostanzo2/Enhancement-One
 
 
 ### Enhancement Two
-https://github.com/JCostanzo2/Enahncement-two
+[Link to second enhancement.](https://github.com/JCostanzo2/Enahncement-two)
 
   The second artifact I chose to enhance for my ePortfolio is the project I created for the advanced programming concepts course I took earlier in the computer science program. I chose this project, because I believe it shows that I have a decent understanding of the use of databases in programs and how to make their use simpler by creating simple programs that search through the databases faster than typing on a command line. The project was initially created in August of 2021 and consists of a class that creates, reads, updates, and deletes data within an animal shelter database. The project also holds a testing file that tests the methods in the animal shelter class. Finally, the project has an app file that creates a user interface that utilizes the methods from the animal shelter class.
 
