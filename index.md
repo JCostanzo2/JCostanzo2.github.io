@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Informal Code Review
 
-[Code Review] (https://youtu.be/HPM57O43frI) for the first enhancement.
+[Code Review](https://youtu.be/HPM57O43frI) for the first enhancement.
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
